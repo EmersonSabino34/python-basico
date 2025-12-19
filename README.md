@@ -1,13 +1,5 @@
 
 
-faça um readmd dessa aula de python
-ChatGPT said:
-Aqui está um README.md bem estruturado e didático para essa aula de Python com Flask, pensado para estudantes iniciantes 👇
-
-📝 Todo App Simples com Flask (Arquivo Único)
-Este projeto é um exemplo didático de uma aplicação TODO List desenvolvida em Python usando Flask, totalmente contida em um único arquivo.
-Ele é ideal para aulas, workshops e protótipos rápidos, ajudando a entender os conceitos básicos de backend com Flask.
-
 🎯 Objetivo da Aula
 Ensinar os fundamentos de:
 
