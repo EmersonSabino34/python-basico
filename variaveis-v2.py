@@ -8,7 +8,6 @@ is_estudante: bool = True         # valor booleano (verdadeiro/falso)
 
 
 
-
 print(f"Nome: {nome} (tipo: {type(nome)})")
 print(f"Idade: {idade} (tipo: {type(idade)})")
 print(f"Altura: {altura} (tipo: {type(altura)})")
