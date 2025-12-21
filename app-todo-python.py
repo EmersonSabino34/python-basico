@@ -108,7 +108,6 @@ def delete(todo_id):
     todos = [t for t in todos if t["id"] != todo_id]
     return redirect(url_for("index"))
 
-
 if __name__ == "__main__":
     # Executa o servidor de desenvolvimento
     app.run(debug=True)
