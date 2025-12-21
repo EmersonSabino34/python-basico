@@ -91,7 +91,6 @@ def add():
         next_id += 1
     return redirect(url_for("index"))
 
-
 @app.route("/toggle/<int:todo_id>", methods=["POST"])
 def toggle(todo_id):
     # Marca ou desmarca a tarefa como feita
