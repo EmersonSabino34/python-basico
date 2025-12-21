@@ -77,7 +77,6 @@ HTML_TEMPLATE = """
 </html>
 """
 
-
 @app.route("/")
 def index():
     # Renderiza a página principal com a lista de todos
