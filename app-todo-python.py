@@ -36,6 +36,7 @@ HTML_TEMPLATE = """
   </style>
 </head>
 <body>
+
   <h1>Lista de Tarefas (TODO)</h1>
   <!-- Formulário para adicionar novo TODO -->
   <form method="post" action="{{ url_for('add') }}">
