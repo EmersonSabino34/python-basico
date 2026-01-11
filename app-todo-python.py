@@ -98,7 +98,6 @@ def toggle(todo_id):
             break
     return redirect(url_for("index"))
 
-
 @app.route("/delete/<int:todo_id>", methods=["POST"])
 def delete(todo_id):
     # Remove a tarefa pelo id
