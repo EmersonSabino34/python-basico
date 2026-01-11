@@ -78,7 +78,6 @@ HTML_TEMPLATE = """
 def index():
     # Renderiza a página principal com a lista de todos
     return render_template_string(HTML_TEMPLATE, todos=todos)
-
 @app.route("/add", methods=["POST"])
 def add():
     # Adiciona uma nova tarefa (vinda do form)
