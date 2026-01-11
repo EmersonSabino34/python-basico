@@ -10,7 +10,6 @@ Como rodar:
 2) Rode: python todo_app_unico_arquivo.py
 3) Abra no navegador: http://127.0.0.1:5000
 """
-
 from flask import Flask, request, redirect, url_for, render_template_string
 
 app = Flask(__name__)
