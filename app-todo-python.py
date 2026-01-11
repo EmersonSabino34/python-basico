@@ -80,6 +80,7 @@ def index():
     return render_template_string(HTML_TEMPLATE, todos=todos)
 @app.route("/add", methods=["POST"])
 def add():
+  
     # Adiciona uma nova tarefa (vinda do form)
     global next_id
     text = request.form.get("text", "").strip()
