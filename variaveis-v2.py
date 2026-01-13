@@ -34,6 +34,7 @@ def saudacao(nome: str, idade: int) -> str:
     """Retorna uma saudação personalizada."""
     return f"Olá, {nome}! Você tem {idade} anos."
 
+
 mensagem: str = saudacao(nome, idade)
 print(f"Mensagem da função: {mensagem}\n")
 
