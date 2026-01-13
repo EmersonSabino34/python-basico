@@ -29,7 +29,6 @@ pessoa: dict[str, str | int | float | bool] = {
 }
 print(f"Dicionário pessoa: {pessoa} (tipo: {type(pessoa)})\n")
 
-
 # Função com tipos definidos
 def saudacao(nome: str, idade: int) -> str:
     """Retorna uma saudação personalizada."""
