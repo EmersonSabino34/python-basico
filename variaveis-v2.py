@@ -11,6 +11,7 @@ print(f"Idade: {idade} (tipo: {type(idade)})")
 print(f"Altura: {altura} (tipo: {type(altura)})")
 print(f"É estudante? {is_estudante} (tipo: {type(is_estudante)})\n")
 
+
 # Listas (sequência ordenada de valores)
 notas: list[float] = [8.5, 7.0, 9.3]
 print(f"Notas: {notas} (tipo: {type(notas)})")
