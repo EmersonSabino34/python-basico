@@ -3,7 +3,6 @@
 🎯 Objetivo da Aula
 Ensinar os fundamentos de:
 
-
 Criação de uma aplicação web com Flask
 
 Rotas (@app.route)
