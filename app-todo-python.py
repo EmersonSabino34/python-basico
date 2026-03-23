@@ -73,6 +73,7 @@ HTML_TEMPLATE = """
   <p><small>Dados mantidos em memória — reiniciar o servidor limpa a lista.</small></p>
 </body>
 </html>
+
 """
 @app.route("/")
 def index():
