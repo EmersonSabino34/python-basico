@@ -29,6 +29,7 @@ pessoa: dict[str, str | int | float | bool] = {
     "altura": altura,
     "estudante": is_estudante
 }
+
 print(f"Dicionário pessoa: {pessoa} (tipo: {type(pessoa)})\n")
 
 # Função com tipos definidos
