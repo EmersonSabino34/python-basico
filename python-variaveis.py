@@ -12,6 +12,7 @@ print(f"Nome: {nome} (tipo: {type(nome)})")
 print(f"Idade: {idade} (tipo: {type(idade)})")
 
 print(f"Altura: {altura} (tipo: {type(altura)})")
+
 print(f"É estudante? {is_estudante} (tipo: {type(is_estudante)})\n")
 
 
