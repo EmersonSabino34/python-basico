@@ -1,5 +1,6 @@
 # Exemplo básico de Python com tipos e comentários detalhados
 
+
 # Tipos básicos
 nome: str = "Maria"               # string (texto)
 idade: int = 25                   # inteiro
