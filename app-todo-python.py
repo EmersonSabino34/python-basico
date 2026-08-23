@@ -5,7 +5,6 @@ Exemplo bem básico de uma aplicação TODO em um único arquivo usando Flask.
 - Os dados ficam em memória (lista Python). Ao reiniciar o servidor, os TODOs são perdidos.
 - Ideal para aulas ou protótipos. Para produção, usar banco de dados e proteção CSRF.
 
-
 Como rodar:
 1) Instale Flask (se ainda não tiver): pip install flask
 2) Rode: python todo_app_unico_arquivo.py
