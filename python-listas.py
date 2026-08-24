@@ -10,7 +10,6 @@
 
 # Listas são coleções ordenadas e mutáveis (podem mudar depois de criadas).
 
-
 frutas = ["maçã", "banana", "laranja"]
 print("Lista original de frutas:", frutas)
 
