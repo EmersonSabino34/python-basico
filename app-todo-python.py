@@ -19,6 +19,7 @@ app = Flask(__name__)
 todos = []
 next_id = 1  # id simples incremental
 
+
 # HTML único (template). Usamos Jinja2 no próprio arquivo.
 HTML_TEMPLATE = """
 
