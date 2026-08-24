@@ -21,6 +21,7 @@ next_id = 1  # id simples incremental
 
 # HTML único (template). Usamos Jinja2 no próprio arquivo.
 HTML_TEMPLATE = """
+
 <!doctype html>
 <html lang="pt-BR">
 <head>
