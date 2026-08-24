@@ -7,7 +7,6 @@
 # 1) Listas (mutable)
 # -----------------------
 
-
 # Listas são coleções ordenadas e mutáveis (podem mudar depois de criadas).
 
 frutas = ["maçã", "banana", "laranja"]
