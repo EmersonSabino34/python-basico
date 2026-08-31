@@ -18,6 +18,7 @@ print(f"Notas: {notas} (tipo: {type(notas)})")
 print(f"Média das notas: {sum(notas) / len(notas):.2f}\n")
 
 # Tupla (sequência imutável)
+
 coordenadas: tuple[float, float] = (23.5, 42.1)
 print(f"Coordenadas: {coordenadas} (tipo: {type(coordenadas)})\n")
 
