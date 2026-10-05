@@ -12,7 +12,6 @@ Como rodar:
 """
 from flask import Flask, request, redirect, url_for, render_template_string
 
-
 app = Flask(__name__)
 
 # Lista em memória para armazenar as tarefas.
