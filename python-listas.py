@@ -2,7 +2,6 @@
 # Comentários em Português e prints para facilitar o entendimento.
 # Compatível com Python 3.x — rode: python treinamento_basico_listas.py
 
-
 # -----------------------
 # 1) Listas (mutable)
 # -----------------------
