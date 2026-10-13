@@ -43,6 +43,7 @@ mensagem: str = saudacao(nome, idade)
 print(f"Mensagem da função: {mensagem}\n")
 
 # Condicional
+
 if idade >= 18:
     print(f"{nome} é maior de idade.")
 else:
