@@ -24,6 +24,7 @@ coordenadas: tuple[float, float] = (23.5, 42.1)
 print(f"Coordenadas: {coordenadas} (tipo: {type(coordenadas)})\n")
 
 # Dicionário (pares chave-valor)
+
 pessoa: dict[str, str | int | float | bool] = {
     "nome": nome,
     "idade": idade,
